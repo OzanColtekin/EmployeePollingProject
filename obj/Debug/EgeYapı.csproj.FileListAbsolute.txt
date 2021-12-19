@@ -1,0 +1,11 @@
+C:\Users\ozanc\source\repos\EgeYapı\bin\Debug\EgeYapı.exe.config
+C:\Users\ozanc\source\repos\EgeYapı\bin\Debug\EgeYapı.exe
+C:\Users\ozanc\source\repos\EgeYapı\bin\Debug\EgeYapı.pdb
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.csprojAssemblyReference.cache
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.Form1.resources
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.Properties.Resources.resources
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.csproj.GenerateResource.cache
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.csproj.CoreCompileInputs.cache
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.exe
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.pdb
+C:\Users\ozanc\source\repos\EgeYapı\obj\Debug\EgeYapı.csproj.ResolveComReference.cache
